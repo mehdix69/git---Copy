@@ -10,8 +10,4 @@ int main(){
   std::cout << "dev" ;
   std::cout << "dev" ;
 
-
-
-
-
 }
