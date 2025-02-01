@@ -9,5 +9,5 @@ int main(){
   std::cout << "4" ;
   std::cout << "dev" ;
   std::cout << "dev" ;
-
+  std::cout << "new:" ;
 }
